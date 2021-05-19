@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
 
 
-# cmd : python.exe ./P06_VGG16_PREDICTION_SCRIPT.py "data\images\n02093256-Staffordshire_bullterrier\n02093256_269.jpg" 
+# cmd : python.exe ./P06_03_script_prediction.py "data\images\n02093256-Staffordshire_bullterrier\n02093256_269.jpg" 
